@@ -1,0 +1,17 @@
+.fabric/
+crash-reports/
+data/
+downloads/
+localconfigs/
+logs/
+ModTranslations/
+saves/
+schematics/
+shaderpacks/
+Xaero*/
+
+*.zip
+*.json
+*.html
+*.txt
+*.curseclient
