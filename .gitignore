@@ -1,3 +1,4 @@
+# Client-only files
 .fabric/
 crash-reports/
 data/
@@ -15,3 +16,10 @@ Xaero*/
 *.html
 *.txt
 *.curseclient
+
+# configs that change every time the game launches (updates the date)
+# config/roughlyenoughitems/*
+# config/fabric/indigo-renderer.properties
+# config/indium-renderer.properties
+# config/iris.properties
+# config/vcinteraction/vcinteraction.properties
